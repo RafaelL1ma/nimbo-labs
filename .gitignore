@@ -1,0 +1,12 @@
+# Versiona só o que é nosso: o tema, o script de exportação e a versão estática.
+# O núcleo do WordPress, uploads, configuração local (wp-config.php, .htaccess) e logs ficam de fora.
+/*
+!/.gitignore
+!/README.md
+!/scripts/
+!/dist/
+!/wp-content/
+/wp-content/*
+!/wp-content/themes/
+/wp-content/themes/*
+!/wp-content/themes/rafael-lima/
